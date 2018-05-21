@@ -2,8 +2,8 @@
 const CHARACTER_NAME = 'player01'
 
 // 初期位置
-const CHARACTER_DEFAULT_POSITION_X = 6
-const CHARACTER_DEFAULT_POSITION_Y = 10
+const CHARACTER_DEFAULT_POSITION_X = 20
+const CHARACTER_DEFAULT_POSITION_Y = 15
 
 // 複数人でプレイする際に使用するサーバのアドレス
 const MULTIPLAYER_SERVER = 'http://localhost:3000/'
